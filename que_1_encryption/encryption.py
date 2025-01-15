@@ -79,5 +79,4 @@ def main():
         print("Decryption failed. The text is incorrect.")
 
 if __name__ == "__main__":
-    print(__name__)
     main()
