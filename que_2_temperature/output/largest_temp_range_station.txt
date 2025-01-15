@@ -1,0 +1,2 @@
+Stations with Largest Temperature Range:
+WAGGA-WAGGA-AMO
